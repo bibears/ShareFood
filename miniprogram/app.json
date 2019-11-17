@@ -1,5 +1,6 @@
 {
   "pages": [
+    "pages/gy/gy",
     "pages/test/test",
     "pages/dbtest/dbtest",
     "pages/todoinfo/todoinfo",
